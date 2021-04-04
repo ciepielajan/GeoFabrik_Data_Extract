@@ -21,4 +21,4 @@ gis_osm_traffic_free_1.shp,\
 gis_osm_transport_a_free_1.shp,\
 gis_osm_transport_free_1.shp,\
 gis_osm_water_a_free_1.shp,\
-gis_osm_waterways_free_1.shp,\
+gis_osm_waterways_free_1.shp,
