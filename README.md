@@ -27,7 +27,7 @@
 buildings_a, landuse_a, natural, natural_a, places, places_a, pofw, pofw_a, pois, pois_a, railways, roads, traffic, traffic_a, transport, transport_a, water_a, waterways
 
 
-### gis_osm_buildings_a_free_1.shp \
+### gis_osm_buildings_a_free_1.shp 
 
 |    | fclass   | fclass_PL   |   value counts |
 |---:|:---------|:------------|---------------:|
@@ -208,7 +208,7 @@ buildings_a, landuse_a, natural, natural_a, places, places_a, pofw, pofw_a, pois
 | 169 | nursing_home         |              1 |
 | 170 | ?                    |              1 |
 
-### gis_osm_landuse_a_free_1.shp \
+### gis_osm_landuse_a_free_1.shp 
 
 |    | fclass            | fclass_PL            |   value counts |
 |---:|:------------------|:---------------------|---------------:|
@@ -234,7 +234,7 @@ buildings_a, landuse_a, natural, natural_a, places, places_a, pofw, pofw_a, pois
 | 19 | heath             | wrzosowisko          |             27 |
 
 
-gis_osm_natural_a_free_1.shp \
+### gis_osm_natural_a_free_1.shp 
 
 |    | fclass   | fclass_PL   |   value counts |
 |---:|:---------|:------------|---------------:|
@@ -244,7 +244,7 @@ gis_osm_natural_a_free_1.shp \
 |  3 | spring   | wiosna      |              2 |
 
 
-### gis_osm_natural_free_1.shp \
+### gis_osm_natural_free_1.shp 
 
 |    | fclass        | fclass_PL     |   value counts |
 |---:|:--------------|:--------------|---------------:|
@@ -256,7 +256,7 @@ gis_osm_natural_a_free_1.shp \
 |  5 | beach         | plaża         |              1 |
 
 
-### gis_osm_places_a_free_1.shp \
+### gis_osm_places_a_free_1.shp 
 
 |    | fclass   | fclass_PL          |   value counts |
 |---:|:---------|:-------------------|---------------:|
@@ -266,7 +266,7 @@ gis_osm_natural_a_free_1.shp \
 |  3 | village  | wioska             |              1 |
 |  4 | farm     | gospodarstwo rolne |              1 |
 
-### gis_osm_places_free_1.shp \
+### gis_osm_places_free_1.shp 
 
 |    | fclass   | fclass_PL          |   value counts |
 |---:|:---------|:-------------------|---------------:|
@@ -279,7 +279,7 @@ gis_osm_natural_a_free_1.shp \
 |  6 | island   | wyspa              |              1 |
 |  7 | farm     | gospodarstwo rolne |              1 |
 
-### gis_osm_pofw_a_free_1.shp \
+### gis_osm_pofw_a_free_1.shp
 
 |    | fclass                | fclass_PL              |   value counts |
 |---:|:----------------------|:-----------------------|---------------:|
@@ -292,7 +292,7 @@ gis_osm_natural_a_free_1.shp \
 |  6 | christian_evangelical | christian_evangelical  |              2 |
 |  7 | hindu                 | Hindus                 |              1 |
 
-### gis_osm_pofw_free_1.shp \
+### gis_osm_pofw_free_1.shp 
 
 |    | fclass               | fclass_PL              |   value counts |
 |---:|:---------------------|:-----------------------|---------------:|
@@ -306,7 +306,7 @@ gis_osm_natural_a_free_1.shp \
 |  7 | christian_lutheran   | christian_lutheran     |              1 |
 
 
-### gis_osm_pois_a_free_1.shp \
+### gis_osm_pois_a_free_1.shp 
 
 |     | fclass            | fclass_PL                      |   value counts |
 |----:|:------------------|:-------------------------------|---------------:|
@@ -432,7 +432,7 @@ gis_osm_natural_a_free_1.shp \
 | 119 | car_rental        | wypożyczalnia samochodów       |              1 |
 
 
-### gis_osm_pois_free_1.shp \
+### gis_osm_pois_free_1.shp 
 
 |     | fclass              | fclass_PL                      |   value counts |
 |----:|:--------------------|:-------------------------------|---------------:|
@@ -570,7 +570,7 @@ gis_osm_natural_a_free_1.shp \
 | 131 | lighthouse          | latarnia morska                |              1 |
 
 
-### gis_osm_railways_free_1.shp \
+### gis_osm_railways_free_1.shp 
 
 |    | fclass       | fclass_PL       |   value counts |
 |---:|:-------------|:----------------|---------------:|
@@ -600,7 +600,7 @@ gis_osm_natural_a_free_1.shp \
 |  1 | T       |       43 |
 
 
-### gis_osm_roads_free_1.shp \
+### gis_osm_roads_free_1.shp 
 
 |    | fclass         | fclass_PL            |   value counts |
 |---:|:---------------|:---------------------|---------------:|
@@ -859,7 +859,7 @@ gis_osm_natural_a_free_1.shp \
 
 
 
-### gis_osm_traffic_a_free_1.shp \
+### gis_osm_traffic_a_free_1.shp 
 
 |    | fclass              | fclass_PL           |   value counts |
 |---:|:--------------------|:--------------------|---------------:|
@@ -875,7 +875,7 @@ gis_osm_natural_a_free_1.shp \
 |  9 | slipway             | pochylnia           |              2 |
 | 10 | weir                | jaz                 |              1 |
 
-### gis_osm_traffic_free_1.shp \
+### gis_osm_traffic_free_1.shp 
 
 |    | fclass              | fclass_PL           |   value counts |
 |---:|:--------------------|:--------------------|---------------:|
@@ -914,7 +914,7 @@ gis_osm_natural_a_free_1.shp \
 |  7 | railway_station | stacja kolejowa            |              2 |
 |  8 | airfield        | lotnisko                   |              1 |
 
-### gis_osm_transport_free_1.shp \
+### gis_osm_transport_free_1.shp 
 
 |    | fclass          | fclass_PL                  |   value counts |
 |---:|:----------------|:---------------------------|---------------:|
@@ -929,7 +929,7 @@ gis_osm_natural_a_free_1.shp \
 |  8 | airport         | Lotnisko                   |              1 |
 
 
-### gis_osm_water_a_free_1.shp \
+### gis_osm_water_a_free_1.shp 
 
 |    | fclass    | fclass_PL      |   value counts |
 |---:|:----------|:---------------|---------------:|
@@ -941,7 +941,7 @@ gis_osm_natural_a_free_1.shp \
 |  5 | glacier   | lodowiec       |             12 |
 |  6 | dock      | dok            |              2 |
 
-### gis_osm_waterways_free_1.shp \
+### gis_osm_waterways_free_1.shp 
 
 |    | fclass   | fclass_PL   |   value counts |
 |---:|:---------|:------------|---------------:|
